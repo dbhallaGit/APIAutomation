@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10274" started-at="2019-10-19T11:01:39 IST" finished-at="2019-10-19T11:01:50 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10274" started-at="2019-10-19T11:01:39 IST" finished-at="2019-10-19T11:01:50 IST">
+      <class name="org.test.APITest.GETAPITest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.test.APITest.GETAPITest@369f73a2]" name="setUp" is-config="true" duration-ms="5" started-at="2019-10-19T11:01:39 IST" finished-at="2019-10-19T11:01:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getListOfResources()[pri:0, instance:org.test.APITest.GETAPITest@369f73a2]" name="getListOfResources" duration-ms="5531" started-at="2019-10-19T11:01:39 IST" finished-at="2019-10-19T11:01:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListOfResources -->
+        <test-method status="PASS" signature="getTest()[pri:0, instance:org.test.APITest.GETAPITest@369f73a2]" name="getTest" duration-ms="4694" started-at="2019-10-19T11:01:45 IST" finished-at="2019-10-19T11:01:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.test.APITest.GETAPITest@369f73a2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-19T11:01:45 IST" finished-at="2019-10-19T11:01:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+      </class> <!-- org.test.APITest.GETAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
